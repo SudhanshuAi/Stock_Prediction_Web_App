@@ -9,3 +9,48 @@ The main objective of this project is to develop a web application that can pred
 
 Project Scope :
 The project has a wide scope, as it is not intended to a particular organization. This project is going to develop generic software, which can be applied by any businesses organization. Moreover it provides facility to its users. Also the software is going to provide a huge amount of summary data.
+
+
+
+
+Project Installation:
+
+STEP 1: Clone the repository from GitHub.
+
+  git clone https://github.com/Kumar-laxmi/Stock-Prediction-System-Application.git
+  
+STEP 2: Change the directory to the repository.
+
+  cd Stock-Prediction-System-Application
+  
+STEP 3: Create a virtual environment (For Windows)
+
+  python -m venv virtualenv
+  (For MacOS and Linux)
+
+  python3 -m venv virtualenv
+  
+STEP 4: Activate the virtual environment. (For Windows)
+
+  virtualenv\Scripts\activate
+  (For MacOS and Linux)
+
+  source virtualenv/bin/activate
+  
+STEP 5: Install the dependencies.
+
+  pip install -r requirements.txt
+  
+STEP 6: Migrate the Django project. (For Windows)
+
+  python manage.py migrate
+  (For MacOS and Linux)
+
+  python3 manage.py migrate
+  
+STEP 7: Run the application. (For Windows)
+
+  python manage.py runserver
+  (For MacOS and Linux)
+
+  python3 manage.py runserver
