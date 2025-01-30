@@ -34,10 +34,6 @@ Create a virtual environment to manage dependencies.
     
 -   **For macOS and Linux:**
     
-    bash
-    
-    Copy
-    
     python3 -m venv virtualenv
     
 
@@ -47,17 +43,9 @@ Activate the virtual environment to isolate the project dependencies.
 
 -   **For Windows:**
     
-    bash
-    
-    Copy
-    
     virtualenv\Scripts\activate
     
 -   **For macOS and Linux:**
-    
-    bash
-    
-    Copy
     
     source virtualenv/bin/activate
     
@@ -65,7 +53,6 @@ Activate the virtual environment to isolate the project dependencies.
 ### Step 4: Install Dependencies
 
 Install the required dependencies using the  `requirements.txt`  file.
-
 
 pip install -r requirements.txt
 
