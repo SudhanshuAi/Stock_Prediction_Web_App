@@ -123,3 +123,7 @@ Once the server is running, open your browser and navigate to  `http://127.0.0.1
 -   Implementation of user authentication and personalized dashboards.
     
 -   Support for multiple stock markets and cryptocurrencies.
+
+
+## Screenshort
+
