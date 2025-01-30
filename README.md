@@ -18,7 +18,7 @@ Follow these steps to set up and run the Stock Prediction System Application on 
 
 ### Step 1: Clone the Repository
 Change the directory to where you want to clone the repository and run:
-```bash
+
 git clone https://github.com/your-username/Stock-Prediction-System-Application.git
 cd Stock-Prediction-System-Application
 
@@ -66,9 +66,6 @@ Activate the virtual environment to isolate the project dependencies.
 
 Install the required dependencies using the  `requirements.txt`  file.
 
-bash
-
-Copy
 
 pip install -r requirements.txt
 
